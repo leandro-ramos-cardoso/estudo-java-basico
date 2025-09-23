@@ -42,5 +42,10 @@ public class SaidaDeDados {
         double renda = 10000.00;
 
         System.out.printf("%s tem %d anos e ganha R$ %.2f%n", nome, idade, renda);
+
+        // Casting - Processo de converter um tipo de dado em outro.
+        double numero = 10.5;
+        int numeroConvertido = (int)numero;
+        System.out.println(numeroConvertido);
     }
 }
