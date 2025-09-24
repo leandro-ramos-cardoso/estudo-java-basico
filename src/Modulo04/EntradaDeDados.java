@@ -1,4 +1,4 @@
-package modulo03;
+package Modulo04;
 
 import java.util.Locale;
 import java.util.Scanner;

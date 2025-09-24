@@ -4,7 +4,7 @@
 // Fórmula da área: area = π . raio2
 // Considere o valor de π = 3.14159
 
-package modulo03;
+package Modulo04;
 
 import java.util.Locale;
 import java.util.Scanner;
