@@ -1,6 +1,6 @@
 // Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma
 //mensagem explicativa
-package Modulo04;
+package modulo04;
 
 public class ex001 {
     public static void main(String[] args) {

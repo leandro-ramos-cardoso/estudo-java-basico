@@ -2,7 +2,7 @@
 //hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas
 //decimais.
 
-package Modulo04;
+package modulo04;
 
 import java.util.Scanner;
 

@@ -6,7 +6,7 @@
 //  d) a área do quadrado que tem lado B.
 //  e) a área do retângulo que tem lados A e B.
 
-package Modulo04;
+package modulo04;
 
 import java.util.Scanner;
 
